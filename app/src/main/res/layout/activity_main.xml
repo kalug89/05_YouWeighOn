@@ -47,8 +47,8 @@
 
     <TextView
         android:id="@+id/resultTextViewvId"
-        android:layout_width="277dp"
-        android:layout_height="43dp"
+        android:layout_width="330dp"
+        android:layout_height="64dp"
         android:layout_marginTop="52dp"
         android:textAlignment="center"
         android:textSize="18sp"
